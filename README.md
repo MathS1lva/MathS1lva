@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/MathS1lva">
-  <img height="180em" width="58%" rc="https://github-readme-stats.vercel.app/api?username=MathS1lva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathS1lva&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" width="52%" rc="https://github-readme-stats.vercel.app/api?username=MathS1lva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathS1lva&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
   <h2>Linguagens e Ferramentas
