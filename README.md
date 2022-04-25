@@ -2,10 +2,8 @@
   <img src="https://raw.githubusercontent.com/MathS1lva/MathS1lva/main/name.svg" alt="Matheus Silva" />
 </h1>
 
-<br>
-
 <h1>Desenvolvedor Front-end 
-
+<br>
 <div align="center">
   <a href="https://github.com/MathS1lva">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=MathS1lva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
